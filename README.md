@@ -3,7 +3,7 @@
 
 ### 👨‍💻 Data Analytics Projects:
 1. #### Bike shop report
-   [Link Text](URL)
+   [Work in Progress ](URL)
 
 
  
