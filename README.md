@@ -7,6 +7,6 @@
 
 
  
-### 🤳 How to reach me: Drop msg at my Linkedin. I will make sure to reply you back.
+###### 🤳 How to reach me: Drop msg at my Linkedin. I will make sure to reply you back.
 
 
