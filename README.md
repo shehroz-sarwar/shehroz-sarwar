@@ -1,5 +1,7 @@
-# Hi! I am Shehroz 👋
-## Data Analyst ( Microsoft Certified PL-300 )
+## Hi! I am Shehroz 👋
+
+
+[Data Analyst (Microsoft Certified, PL-300)](###) 
 
 ### 👨‍💻 Data Analytics Projects:
 1. #### Bike shop report
