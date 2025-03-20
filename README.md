@@ -1,7 +1,6 @@
 ### Hi! I am Shehroz 👋
 
-
-[Microsoft Certified, PL-300 ](#)
+# Data Analyst , Microsoft Certified: Power BI Data Analyst Associate - PL300
 
 ### 👨‍💻 Data Analytics Projects:
 1. #### Bike shop report
