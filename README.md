@@ -5,7 +5,7 @@
 ## 🚀 Data Projects:
 
 - **ABC Bike Shop Power BI Report**  
-  [View Project Repository]([https://github.com/shehroz-sarwar/Basic-Anlysis---Bike-shop.git])
+  [View Project Repository](https://github.com/shehroz-sarwar/Basic-Anlysis---Bike-shop.git)
 
 
 
