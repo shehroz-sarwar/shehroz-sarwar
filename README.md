@@ -1,12 +1,11 @@
 # Hi, I'm Shehroz Sarwar!  
 **Power BI Analyst | SQL Enthusiast | Data Storyteller**
 
----
 
 ## 🚀 Data Projects:
 
 - **ABC Bike Shop Power BI Report**  
-  🔗 [View Project Repository]([https://github.com/shehrozsarwar/abc-bike-powerbi-report](https://github.com/shehroz-sarwar/Basic-Anlysis---Bike-shop.git))
+  🔗 [View Project Repository]([https://github.com/shehrozsarwar/abc-bike-powerbi-report](https://github.com/shehroz-sarwar/Basic-Anlysis---Bike-shop.git])
 
 
 
