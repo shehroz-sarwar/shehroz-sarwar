@@ -9,6 +9,6 @@
 
 
 
-## 📫 Let's Connect
+#### 📫 If you have question, feedback or wants to connect. Write me on linkedin, I will make sure to reply.
 
 - [LinkedIn](https://www.linkedin.com/in/shehrozsarwar)  
