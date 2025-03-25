@@ -1,10 +1,22 @@
-### Hi! I am Shehroz 👋
+# Hi, I'm Shehroz Sarwar!  
+**Power BI Analyst | SQL Enthusiast | Data Storyteller**
 
-## Data Analyst , Microsoft Certified (PL-300)
+---
 
-### 👨‍💻 Data Analytics Projects:
-1. #### Bike shop report
-   [Work in Progress ](URL)
+## 🚀 Data Projects:
+
+- **ABC Bike Shop Power BI Report**  
+  🔗 [View Project Repository](https://github.com/shehrozsarwar/abc-bike-powerbi-report)
+
+
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/shehrozsarwar)  
+
+
 
 
  
