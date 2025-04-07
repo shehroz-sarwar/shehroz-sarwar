@@ -1,5 +1,5 @@
 # Hi, I'm Shehroz Sarwar!  
-**Power BI Analyst | SQL Enthusiast | Data Storyteller**
+**Power BI Analyst | SQL Enthusiast **
 
 
 ## 🚀 Data Projects:
